@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseem-hase&label=Profile%20views&color=0e75b6&style=flat" alt="haseem-hase" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haseem-hase" alt="haseem-hase" /></a> </p>
+
 
 - 🔭 I’m currently working on **various projects from my Company Brandstrek**
 
